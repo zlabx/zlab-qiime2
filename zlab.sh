@@ -1,3 +1,4 @@
+####Powered by zlab###
 #!/bin/bash
 usage(){
 	echo "Usage:
