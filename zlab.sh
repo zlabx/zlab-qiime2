@@ -376,5 +376,5 @@ for i in `seq 10`;do
 	fi
 done
 if [ $n = 10 ];then
-	echo "Congratulations! You have successfully finished the amplicon data analyses"
+	echo "Congratulations! You have successfully finished the amplicon data analyses via zlab"
 fi
